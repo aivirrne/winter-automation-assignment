@@ -1,0 +1,1 @@
+{"uuid":"dbaf62d0-ccb1-43c4-b852-35d0a61496d6","name":"com.shop.ContactEmailTest","children":["b54fa2d2-a334-4bbb-9b5e-e0e2573e5052"],"befores":[{"name":"initializePageObject","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1704817623376,"stop":1704817623377}],"afters":[],"start":1704817619732,"stop":1704817636038}
